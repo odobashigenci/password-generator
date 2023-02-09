@@ -23,7 +23,7 @@ To view page [click here](https://odobashigenci.github.io/password-generator/)
 
 ## Image
 
-![Preview image](main/Assets/password.generator.preview.jpg)
+![Preview image]([main/Assets/password.generator.preview.jpg](https://github.com/odobashigenci/password-generator/blob/main/Assets/password.generator.preview.jpg))
 
 
 ## Credits
