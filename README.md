@@ -23,7 +23,6 @@ To view page [click here](https://odobashigenci.github.io/password-generator/)
 
 ## Image
 
-![Preview image](Assets/password.generator.preview.jpg)
 ![Alt text](Assets/password.generator.preview.jpg?raw=true "Screen-Shot")
 
 
